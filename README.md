@@ -10,6 +10,6 @@
 ### Tech stack:
 - Ethereum
 - JavaScript
-- React,js
+- React.js
 - Ethers.js
 - Express.js
