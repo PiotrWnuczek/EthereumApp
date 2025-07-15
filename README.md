@@ -1,6 +1,6 @@
 # Ethereum App
 
-### Cybersecurity-focused app managing access using blockchain technology
+### Cybersecurity-focused app managing access using blockchain technology:
 - Access granted by paying with a custom ERC-20 token
 - Payment triggers a blockchain transaction verified on the Ethereum network
 - Backend confirms the transaction before granting access
